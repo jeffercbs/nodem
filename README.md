@@ -32,13 +32,13 @@
 ## **Iteration Plan**
 
 - [ ] INSTALLER
-  - [ ] 🏃 Windows
-  - [ ] Linux
+  - [x] 🏃 Windows
+  - [x] 🏃 Linux
   - [ ] MacOs
 - [ ] COMMANDS
   - [x] info
-  - [ ] 🏃 list
-  - [ ] install
+  - [x] 🏃 list
+  - [ ] 🏃 install
   - [ ] uninstall
   - [ ] use
 
